@@ -1,0 +1,100 @@
+WorldCat Identities ID (P7859)	1854417
+Wikimedia import URL (P4656)	5035363
+volume (P478)	34978497
+VIAF ID (P214)	6302237
+UniProt protein ID (P352)	2533973
+title (P1476)	43200683
+taxon rank (P105)	3343436
+taxon name (P225)	3347093
+subclass of (P279)	3219071
+stated in (P248)	80636338
+stated as (P1932)	9456716
+start time (P580)	7297171
+sport (P641)	1864247
+SIMBAD ID (P3083)	8150606
+sex or gender (P21)	7669708
+series ordinal (P1545)	157215468
+right ascension (P6257)	8091226
+retrieved (P813)	78770938
+ResearchGate publication ID (P5875)	4579638
+reference URL (P854)	60242637
+radial velocity (P2216)	4599843
+PubMed ID (P698)	59864366
+published in (P1433)	37618651
+publication date (P577)	43188776
+proper motion (P2215)	10443797
+pronunciation (P7243)	1669312
+postal code (P281)	1942189
+population (P1082)	1901800
+point in time (P585)	10027028
+PMCID (P932)	11400499
+place of birth (P19)	2953852
+part of (P361)	4274155
+parent taxon (P171)	3353606
+parallax (P2214)	5834603
+page(s) (P304)	35539548
+ortholog (P684)	4319965
+ORCID iD (P496)	2259455
+official website (P856)	1584114
+official name (P1448)	1605996
+of (P642)	11200977
+occupation (P106)	8999493
+named as (P1810)	4617551
+member of sports team (P54)	1585566
+main subject (P921)	18084607
+location (P276)	2550380
+located in time zone (P421)	1992938
+located in the administrative territorial entity (P131)	11066652
+languages spoken, written or signed (P1412)	2151484
+language of work or name (P407)	16939900
+issue (P433)	31953875
+instance of (P31)	101046526
+inception (P571)	2406562
+imported from Wikimedia project (P143)	4696278
+image (P18)	4103854
+heritage designation (P1435)	2040930
+has part (P527)	1859294
+Google Knowledge Graph ID (P2671)	7381748
+GNS Unique Feature ID (P2326)	2895006
+GND ID (P227)	2045856
+given name (P735)	6318926
+GeoNames ID (P1566)	3754060
+GBIF taxon ID (P846)	2559279
+full work available at URL (P953)	1612631
+Freebase ID (P646)	4457496
+found in taxon (P703)	7257147
+follows (P155)	1812488
+followed by (P156)	1793952
+family name (P734)	3485412
+exact match (P2888)	3281604
+epoch (P6259)	8076456
+Entrez Gene ID (P351)	3072857
+end time (P582)	4010736
+employer (P108)	1579086
+Elo rating (P1087)	2868768
+educated at (P69)	2225761
+DOI (P356)	27348742
+distance from Earth (P2583)	3488986
+determination method (P459)	9098375
+described by source (P1343)	2749977
+declination (P6258)	8091092
+date of death (P570)	2764776
+date of birth (P569)	5396835
+country of citizenship (P27)	4222910
+country (P17)	14430599
+copyright status (P6216)	1771188
+coordinate location (P625)	8950841
+constellation (P59)	7371444
+Commons category (P373)	3312414
+collection (P195)	2963215
+cites work (P2860)	284766502
+chromosome (P1057)	3331796
+category combines topics (P971)	2200443
+catalog code (P528)	28733954
+catalog (P972)	23816798
+based on heuristic (P887)	7010850
+author name string (P2093)	134881855
+author (P50)	21724825
+astronomical filter (P1227)	33121989
+applies to jurisdiction (P1001)	2106254
+apparent magnitude (P1215)	33122009
