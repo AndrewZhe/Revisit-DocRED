@@ -12,7 +12,7 @@ the scheme actually discourages annotators from supplementing adequate instances
 2. DocRED has bias, it favors relation-instances related to popular relations and entities.
 3. Models trained on DocRED inherit such bias and their performances are over estimated.
 
-![Examples of annotations](figs/docred_case.pdf)
+![Examples of annotations](docred_case.jpg)
 
 
 ## Data
